@@ -40,7 +40,7 @@ header ul {
     align-items: center;
     gap: 40px;
 
-    padding: 40px;
+    padding: 60px;
 
     background-color: #1F2937;
 
@@ -96,6 +96,8 @@ button {
     flex-direction: column;
     align-items: center;
 
+    padding-bottom: 60px;
+
     background-color: white;
 }
 
@@ -143,7 +145,9 @@ button {
     justify-content: center;
     align-items: center;
 
-   background-color: #E5E7EB; 
+    padding: 60px;
+
+    background-color: #E5E7EB; 
 }
 
 .quote-section p {
