@@ -54,16 +54,20 @@ header ul {
 .hero h1 {
    font-size: 48px; 
    font-weight: 900;
+   margin: 0px;
 }
 
 .hero p {
     font-size: 18px;
-    color: #E5E7EB
+    color: #E5E7EB;
+    margin: 0px;
 }
 
 button {
     width: 125px;
     height: 30px;
+
+    margin-top: 10px;
 
     font-size: 18px;
     font-weight: bold;
