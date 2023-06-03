@@ -167,3 +167,50 @@ button {
 .quote h3 {
     align-self: flex-end;
 }
+
+
+.call-to-action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 60px;
+
+    background-color: white;
+}
+
+.call-to-action-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+    background-color: #3882F6;
+
+    border-radius: 8px;
+}
+
+.call-to-action-text h3 {
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.call-to-action p {
+    font-size: 15px;
+    color: #F9FAF8;
+
+}
+
+.call-to-action-block button {
+    border-style: solid;
+    border-width: 1px;
+    
+    min-width: 100px;
+
+    font-size: 15px;
+}
