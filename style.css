@@ -214,3 +214,14 @@ button {
 
     font-size: 15px;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 30px;
+
+    background-color: #1F2937;
+    color: #E5E7EB;
+}
